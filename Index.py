@@ -459,3 +459,4 @@ footer.pack(side='bottom', fill='x')
 tk.Label(footer, text="Registraduría Nacional del Estado Civil - Dirección Nacional de Identificación • Vigilado por la alta dirección 2026", fg="white", bg=COLOR_AZUL_RNEC, font=("Segoe UI", 8)).pack(pady=4)
 
 root.mainloop()
+
