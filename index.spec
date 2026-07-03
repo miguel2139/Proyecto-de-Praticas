@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['index.py'],
+    ['Index.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='index',
+    name='Index',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
