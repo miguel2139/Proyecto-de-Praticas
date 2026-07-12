@@ -571,6 +571,8 @@ except Exception:
 
 tk.Label(header, text="SISTEMA DE CONTROL VISUAL - INFORME DNI\nREGISTRADURÍA NACIONAL DEL ESTADO CIVIL", fg="white", bg=COLOR_AZUL_RNEC, font=FONT_TITULO, justify="left").pack(side='left', padx=5)
 
+tk.Label(header, text="RDRCI - DNI 62", fg="#F1C40F", bg=COLOR_AZUL_RNEC, font=("Segoe UI", 15, "bold")).pack(side='right', padx=30)
+
 # --- PANEL CENTRAL (TARJETA MODERNA) ---
 main_card = tk.Frame(root, bg=COLOR_AZUL_RNEC, highlightthickness=0)
 main_card.place(relx=0.5, rely=0.55, anchor='center', width=1040, height=580)
