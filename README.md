@@ -21,11 +21,11 @@
 
 | Carga de Datos | Dashboard |
 |:---:|:---:|
-| ![Carga de datos](screenshots/carga_datos.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Carga de datos](screenshots/screenshot-1784302827226-d038f260.jpg) | ![Dashboard](screenshots/screenshot-1784302827235-185832f2.jpg) |
 
 | Sin Autenticación | Gestión de Operadores |
 |:---:|:---:|
-| ![Sin autenticación](screenshots/sin_autenticacion.png) | ![Gestión de operadores](screenshots/gestion_operadores.png) |
+| ![Sin autenticación](screenshots/screenshot-1784302827240-af852400.jpg) | ![Gestión de operadores](screenshots/screenshot-1784302827246-16a708a7.jpg) |
 
 ---
 
